@@ -5,7 +5,7 @@
 ### 查看配置信息
 
 ```shell
-git config --list
+git config --list 
 ```
 
 ### 设置用户名密码和邮箱
